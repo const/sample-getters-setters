@@ -1,0 +1,4 @@
+The code for src/main/java/samples/GettersSettersDzone.java is taken from article:
+https://dzone.com/articles/hacking-lambda-expressions-in-java
+
+The rest of the code is licensed under the MIT license.
